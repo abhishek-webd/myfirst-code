@@ -1,3 +1,3 @@
 # myfirst-code
 This is my first Git Repository.
-Author - Abhishek
+Author - Abhishek Rajput
